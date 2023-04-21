@@ -15,7 +15,7 @@ function App() {
   useEffect(()=>{
     agregarLocalStorage();
   }, [pacientes])
-
+ 
  
 
   const agregarLocalStorage=()=>{
